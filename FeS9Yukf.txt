@@ -1,0 +1,399 @@
+#EXTINF:-1,3HD
+https://livedoomovies.com/02_3HD_720p/chunklist.m3u8
+#EXTINF:-1,5HD
+https://livedoomovies.com/02_5HD_720p/chunklist.m3u8
+#EXTINF:-1,7HD
+https://livedoomovies.com/02_7HD_720p/chunklist.m3u8
+#EXTINF:-1,MCOT HD
+https://livedoomovies.com/02_MCOTHD_720p/chunklist.m3u8
+#EXTINF:-1,NBT
+https://livedoomovies.com/02_NBTSD_480p/chunklist.m3u8
+#EXTINF:-1,TPBS HD
+https://livedoomovies.com/02_THAIPBS_720p/chunklist.m3u8
+#EXTINF:-1,PPTV HD
+https://livedoomovies.com/02_PPTVHD_720p/chunklist.m3u8
+#EXTINF:-1,THAIRATH HD
+https://livedoomovies.com/02_THAIRATH_720p/chunklist.m3u8
+#EXTINF:-1,ONE HD
+https://livedoomovies.com/02_GMMONE_720p/chunklist.m3u8
+#EXTINF:-1,AMARIN HD
+https://livedoomovies.com/02_AMARINHD_720p/chunklist.m3u8
+#EXTINF:-1,TNN24
+https://livedoomovies.com/02_TNN24_480p/chunklist.m3u8
+#EXTINF:-1,TRUE4U
+https://livedoomovies.com/02_TRUE4U_480p/chunklist.m3u8
+#EXTINF:-1,VIOCE
+https://livedoomovies.com/02_VOICE_480p/chunklist.m3u8
+#EXTINF:-1,WORKPIONT
+https://livedoomovies.com/02_WORKPOINT_720p/chunklist.m3u8
+#EXTINF:-1,GMM
+https://livedoomovies.com/02_GMM_720p/chunklist.m3u8
+#EXTINF:-1,MONO29
+https://livedoomovies.com/02_MONO_720p/chunklist.m3u8
+#EXTINF:-1,NEW
+https://livedoomovies.com/02_NEW_480p/chunklist.m3u8
+#EXTINF:-1,NATION TV
+https://livedoomovies.com/02_NATION_480p/chunklist.m3u8
+#EXTINF:-1,MCOT FAMILY
+https://livedoomovies.com/02_MCOTFAMILY_720p/chunklist.m3u8
+#EXTINF:-1,8 HD
+https://livedoomovies.com/02_8HD_720p/chunklist.m3u8
+#EXTINF:-1,3SD
+https://livedoomovies.com/02_CH3SD_480p/chunklist.m3u8
+#EXTINF:-1,3FAMILY
+https://livedoomovies.com/02_CH3FAMILY_480p/chunklist.m3u8
+#EXTINF:-1,FANMUSICHD
+https://livedoomovies.com/02_FANMUSICHD_720p/chunklist.m3u8
+#EXTINF:0, PremierHD1
+https://livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0, PremierHD2
+https://livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0, PremierHD3
+https://livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:0, PremierHD4
+https://livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:0, PremierHD5
+https://livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:0, SkynetsportHD
+https://livedoomovies.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:0, Skynetsport1
+https://livedoomovies.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport2
+https://livedoomovies.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport3
+https://livedoomovies.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport4
+https://livedoomovies.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport5
+https://livedoomovies.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport6
+https://livedoomovies.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:0, Bein1
+https://livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:0, Bein2
+https://livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD1
+https://livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD2
+https://livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD3
+https://livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD4
+https://livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:0, Fox Sport1
+https://livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:0, Fox Sport2
+https://livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:0, Fox Sport3
+https://livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:0, Tennis HD
+https://livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:0, NBA HD
+https://livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:0, NFLNetwork
+https://livedoomovies.com/02_NFLNetwork_720p/chunklist.m3u8
+#EXTINF:0, Golf HD
+https://livedoomovies.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:0, HBO HD
+https://livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:0, HBO Hit
+https://livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:0, HBOSignature
+https://livedoomovies.com/02_HBOSignature_720p/chunklist.m3u8
+#EXTINF:0, FoxActionHD_TH
+https://livedoomovies.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxActionHD
+https://livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF:0, FoxMovies_TH
+https://livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:0, FoxMovies
+https://livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:0, FoxFamilyHD_TH
+https://livedoomovies.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxFamilyHD
+https://livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8
+#EXTINF:0, FoxThai_TH
+https://livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxThai
+https://livedoomovies.com/02_FoxThai_720p/chunklist.m3u8
+#EXTINF:0, FoxCrimeHD_TH
+https://livedoomovies.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+
+#EXTINF:0, FoxCrimeHD
+https://livedoomovies.com/02_FoxCrimeHD_720p/chunklist.m3u8
+#EXTINF:0, RedbyHBO
+https://livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:0, AXN HD
+https://livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:0, WarnerTV HD
+https://livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:0, FXThailand
+https://livedoomovies.com/02_FXThailand_720p/chunklist.m3u8
+#EXTINF:0, TrueFilmHD1
+https://livedoomovies.com/02_TrueFilmHD1_720p/chunklist.m3u8
+#EXTINF:0, TrueFilmHD2
+https://livedoomovies.com/02_TrueFilmHD2_720p/chunklist.m3u8
+#EXTINF:0, HISTORY HD
+https://livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:0, H2 HD
+https://livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:0, DiscoveryChannel
+https://livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:0, DiscoveryHDWorld
+https://livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:0, NatGeoHD_TH
+https://livedoomovies.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+#EXTINF:0, NatGeo HD
+https://livedoomovies.com/02_NatGeoHD_720p/chunklist.m3u8
+#EXTINF:0, NatGeo Wild_TH
+https://livedoomovies.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+#EXTINF:0, NatGeo People
+https://livedoomovies.com/02_NatPeopleHD_720p/chunklist.m3u8
+#EXTINF:0, NatGeoWild
+https://livedoomovies.com/02_NatGeoWild_720p/chunklist.m3u8
+#EXTINF:0, AnimalPlanet
+https://livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:0, Sumrujlok
+https://livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:0, MYSCIHD
+https://livedoomovies.com/02_MYSCIHD_720p/chunklist.m3u8
+#EXTINF:0, BBCEARTH
+https://livedoomovies.com/02_BBCEARTH_720p/chunklist.m3u8
+#EXTINF:0, CartoonNetwork
+https://livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:0, DisneyXD
+https://livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:0, T_Sports
+https://livedoomovies.com/02_T_Sports_480p/chunklist.m3u8
+#EXTINF:0, SMM_TV
+https://livedoomovies.com/02_SMM_TV_480p/chunklist.m3u8
+#EXTINF:0, NHANG_DUNK
+https://livedoomovies.com/02_NHANG_DUNK_720p/chunklist.m3u8
+#EXTINF:0, MANGORN
+https://livedoomovies.com/02_MANGORN_720p/chunklist.m3u8
+#EXTINF:0, MONO_Plus
+https://livedoomovies.com/02_MONO_Plus_720p/chunklist.m3u8
+#EXTINF:0, Zee_Nung
+https://livedoomovies.com/02_Zee_Nung_720p/chunklist.m3u8
+#EXTINF:0, FOX_Life
+https://livedoomovies.com/02_FOX_Life_720p/chunklist.m3u8
+#EXTINF:0, Thrill
+https://livedoomovies.com/02_Thrill_720p/chunklist.m3u8
+#EXTINF:0, SCM
+https://livedoomovies.com/02_SCM_720p/chunklist.m3u8
+#EXTINF:0, CMM
+https://livedoomovies.com/02_CCM_720p/chunklist.m3u8
+#EXTINF:0, Comedy
+https://livedoomovies.com/02_Comedy_HD_720p/chunklist.m3u8
+#EXTINF:0, Baby_TV_HD
+https://livedoomovies.com/02_Baby_TV_HD_720p/chunklist.m3u8
+#EXTINF:0, Miao_Mi
+https://livedoomovies.com/02_Miao_Mi_720p/chunklist.m3u8
+#EXTINF:0, Nick_Jr
+https://livedoomovies.com/02_Nick_Jr_720p/chunklist.m3u8
+#EXTINF:0, Boomerang
+https://livedoomovies.com/02_Boomerang_720p/chunklist.m3u8
+#EXTINF:0, FANMUSICHD
+https://livedoomovies.com/02_FANMUSICHD_720p/chunklist.m3u8
+#EXTINF:0, SabaideeTV
+https://livedoomovies.com/02_SabaideeTV_720p/chunklist.m3u8
+#EXTINF:0, Wish_Channel
+https://livedoomovies.com/02_Wish_Channel_720p/chunklist.m3u8
+#EXTINF:0, MTV_China
+https://livedoomovies.com/02_MTV_China_720p/chunklist.m3u8
+#EXTINF:0, Channel_V
+https://livedoomovies.com/02_Channel_V_720p/chunklist.m3u8
+#EXTINF:0, MTV_Asia
+https://livedoomovies.com/02_MTV_Asia_720p/chunklist.m3u8
+#EXTINF:0, MTV_Live_HD
+https://livedoomovies.com/02_MTV_Live_HD_720p/chunklist.m3u8
+#EXTINF:0, KIX_Thailand
+https://livedoomovies.com/02_KIX_Thailand_720p/chunklist.m3u8
+#EXTINF:0, NHK_WORLD_TV
+https://livedoomovies.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
+#EXTINF:-1,ANIMALSHOW
+https://vip.we-play.tv/live/animalshow/playlist.m3u8
+#EXTINF:-1,MYSIC
+https://vip.we-play.tv/live/mysci/playlist.m3u8
+#EXTINF:-1,SAMRUAJLOK
+https://vip.we-play.tv/live/samruajlok/playlist.m3u8
+#EXTINF:-1,ANIMALPLANET
+https://vip.we-play.tv/live/angmalplanet/playlist.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+https://vip.we-play.tv/live/discovery/playlist.m3u8
+#EXTINF:-1,DISCOVERYASIA
+https://vip.we-play.tv/live/disasia/playlist.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+https://vip.we-play.tv/live/natgeo/playlist.m3u8
+#EXTINF:-1,NATIONAL GEOWILD
+https://vip.we-play.tv/live/natwild/playlist.m3u8
+#EXTINF:-1,HISTORY
+https://vip.we-play.tv/live/history/playlist.m3u8
+#EXTINF:-1,H2
+https://vip.we-play.tv/live/h2/playlist.m3u8
+#EXTINF:-1,PREMIER FOOTBALL1
+https://vip.we-play.tv/live/tpf1/chunks.m3u8
+#EXTINF:-1,PREMIER FOOTBALL2
+https://vip.we-play.tv/live/tpf2/chunks.m3u8
+#EXTINF:-1,PREMIER FOOTBALL3
+https://vip.we-play.tv/live/tpf3/playlist.m3u8
+#EXTINF:-1,PREMIER FOOTBALL4
+https://vip.we-play.tv/live/tpf4/playlist.m3u8
+#EXTINF:-1,PREMIER FOOTBALL5
+https://vip.we-play.tv/live/tpf5/playlist.m3u8
+#EXTINF:-1,BEIN1
+https://vip.we-play.tv/live/bein1/playlist.m3u8
+#EXTINF:-1,BEIN2
+https://vip.we-play.tv/live/bein2/playlist.m3u8
+#EXTINF:-1,BEIN3
+https://vip.we-play.tv/live/bein3/playlist.m3u8
+#EXTINF:-1,BEIN4
+https://vip.we-play.tv/live/bein4/playlist.m3u8
+#EXTINF:-1,TRUESPHD1
+https://vip.we-play.tv/live/thd1/playlist.m3u8
+#EXTINF:-1,TRUESPHD2
+https://vip.we-play.tv/live/thd2/playlist.m3u8
+#EXTINF:-1,TRUESPHD3
+https://vip.we-play.tv/live/thd3/playlist.m3u8
+#EXTINF:-1,TRUESPHD4
+https://vip.we-play.tv/live/thd4/playlist.m3u8
+#EXTINF:-1,TRUESP2
+https://vip.we-play.tv/live/tsp2/playlist.m3u8
+#EXTINF:-1,TRUESP5
+https://vip.we-play.tv/live/tsp5/playlist.m3u8
+#EXTINF:-1,TRUESP6
+https://vip.we-play.tv/live/tsp6/playlist.m3u8
+#EXTINF:-1,TRUESP7
+https://vip.we-play.tv/live/tsp7/playlist.m3u8
+#EXTINF:-1,TRUE TENNIS
+https://vip.we-play.tv/live/tennis/playlist.m3u8
+#EXTINF:-1,TRUE GOLF
+https://vip.we-play.tv/live/golf/playlist.m3u8
+#EXTINF:-1,NBA
+https://vip.we-play.tv/live/nba/playlist.m3u8
+#EXTINF:-1,BEIN1INTER
+https://vip.we-play.tv/live/bein1inter/playlist.m3u8
+#EXTINF:-1,BEIN2INTER
+https://vip.we-play.tv/live/bein2inter/playlist.m3u8
+#EXTINF:-1,BEIN3INTER
+https://vip.we-play.tv/live/bein3inter/playlist.m3u8
+#EXTINF:-1,BEIN4INTER
+https://vip.we-play.tv/live/bein4inter/playlist.m3u8
+#EXTINF:-1,BEIN5INTER
+https://vip.we-play.tv/live/bein5inter/playlist.m3u8
+#EXTINF:-1,SKYNETSPHD
+https://vip.we-play.tv/live/skynethd/playlist.m3u8
+#EXTINF:-1,SKYNETSP1
+https://vip.we-play.tv/live/skynet1/playlist.m3u8
+#EXTINF:-1,SKYNETSP2
+https://vip.we-play.tv/live/skynet2/playlist.m3u8
+#EXTINF:-1,SKYNETSP3
+https://vip.we-play.tv/live/skynet3/playlist.m3u8
+#EXTINF:-1,SKYNETSP4
+https://vip.we-play.tv/live/skynet4/playlist.m3u8
+#EXTINF:-1,SKYNETSP5
+https://vip.we-play.tv/live/skynet5/playlist.m3u8
+#EXTINF:-1,SKYNETSP6
+https://vip.we-play.tv/live/skynet6/playlist.m3u8
+#EXTINF:-1,BTSPORT1
+https://vip.we-play.tv/live/btsport1/playlist.m3u8
+#EXTINF:-1,BTSPORT2
+https://vip.we-play.tv/live/btsport2/playlist.m3u8
+#EXTINF:-1,BTSPORT3
+https://vip.we-play.tv/live/btsport3/playlist.m3u8
+#EXTINF:-1,FOX SPORT1
+https://vip.we-play.tv/live/fox1/playlist.m3u8
+#EXTINF:-1,FOX SPORT2
+https://vip.we-play.tv/live/fox2/playlist.m3u8
+#EXTINF:-1,FOX SPORT3
+https://vip.we-play.tv/live/fox3/playlist.m3u8
+#EXTINF:-1,SPORT TV1
+https://vip.we-play.tv/live/sporttv1/playlist.m3u8
+#EXTINF:-1,SPORT TV2
+https://vip.we-play.tv/live/sporttv1/playlist.m3u8
+#EXTINF:-1,SPORT TV3
+https://vip.we-play.tv/live/sporttv1/playlist.m3u8
+#EXTINF:-1,SPORT TV4
+https://vip.we-play.tv/live/sporttv1/playlist.m3u8
+#EXTINF:-1,NPL
+https://vip.we-play.tv/live/nfl/playlist.m3u8
+#EXTINF:-1,MUTV
+https://vip.we-play.tv/live/mutv/playlist.m3u8
+#EXTINF:-1,LFCTV
+https://vip.we-play.tv/live/lfctv/playlist.m3u8
+#EXTINF:-1,EUROSPORT
+https://vip.we-play.tv/live/eusport/playlist.m3u8
+#EXTINF:-1,ASTRO1
+https://vip.we-play.tv/live/astro1/playlist.m3u8
+#EXTINF:-1,ASTRO2
+https://vip.we-play.tv/live/astro2/playlist.m3u8
+#EXTINF:-1,ASTRO3
+https://vip.we-play.tv/live/astro3/playlist.m3u8
+#EXTINF:-1,ASTRO4
+https://vip.we-play.tv/live/astro4/playlist.m3u8
+#EXTINF:-1,HBO HD
+https://vip.we-play.tv/live/hbo-hd/playlist.m3u8
+#EXTINF:-1,HBO HITS
+https://vip.we-play.tv/live/hbo-hits/playlist.m3u8
+#EXTINF:-1,HBO FAMILY
+https://vip.we-play.tv/live/hbo-fam/playlist.m3u8
+#EXTINF:-1,HBO SIGNATURE
+https://vip.we-play.tv/live/hbo-sig/playlist.m3u8
+#EXTINF:-1,RED BY HBO
+https://vip.we-play.tv/live/red/playlist.m3u8
+#EXTINF:-1,FOX ACTION MOVIE
+https://vip.we-play.tv/live/fox-action/playlist.m3u8
+#EXTINF:-1,FOX PREMIUM
+https://vip.we-play.tv/live/fox-movies/playlist.m3u8
+#EXTINF:-1,FOX FAMILY
+https://vip.we-play.tv/live/fox-fam/playlist.m3u8
+#EXTINF:-1,FOX THAI
+https://vip.we-play.tv/live/foxth/playlist.m3u8
+#EXTINF:-1,FOX CRIME
+https://vip.we-play.tv/live/fox-crime/playlist.m3u8
+#EXTINF:-1,FOX LIFE
+https://vip.we-play.tv/live/fox-life/playlist.m3u8
+#EXTINF:-1,FX HD
+https://vip.we-play.tv/live/fxhd/playlist.m3u8
+#EXTINF:-1,AXN
+https://vip.we-play.tv/live/axn/playlist.m3u8
+#EXTINF:-1,WARNER HD
+https://vip.we-play.tv/live/warner/playlist.m3u8
+#EXTINF:-1,CINEMAX
+https://vip.we-play.tv/live/cinemax/playlist.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+https://vip.we-play.tv/live/paramount/playlist.m3u8
+#EXTINF:-1,SONY CHANNEL
+https://vip.we-play.tv/live/sony-channel/playlist.m3u8
+#EXTINF:-1,BLUEANT ENTERTAINMENT
+https://vip.we-play.tv/live/blue-ent/playlist.m3u8
+#EXTINF:-1,BLUEANT EXTREAME
+https://vip.we-play.tv/live/blue-ext/playlist.m3u8
+#EXTINF:-1,HI DEF1
+https://vip.we-play.tv/live/hi-def1/playlist.m3u8
+#EXTINF:-1,THRILL
+https://vip.we-play.tv/live/thrill/playlist.m3u8
+#EXTINF:-1,TRUE FILM HD1
+https://vip.we-play.tv/live/truefilmhd/playlist.m3u8
+#EXTINF:-1,TRUE FILM HD2
+https://vip.we-play.tv/live/truefilmhd2/playlist.m3u8
+#EXTINF:-1,TRUE MOVIE HITS
+https://vip.we-play.tv/live/true-movie-hits/playlist.m3u8
+#EXTINF:-1,TRUE THAIFILM
+https://vip.we-play.tv/live/truethaifilm/playlist.m3u8
+#EXTINF:-1,TRUE XZYTE
+https://vip.we-play.tv/live/truexzyte/playlist.m3u8
+#EXTINF:-1,TRUE SERIES
+https://vip.we-play.tv/live/true-series/playlist.m3u8
+#EXTINF:-1,CCM
+https://vip.we-play.tv/live/ccm/playlist.m3u8
+#EXTINF:-1,CN
+https://vip.we-play.tv/live/cnhd/playlist.m3u8
+#EXTINF:-1,NICKJR
+https://vip.we-play.tv/live/nickjr/playlist.m3u8
+#EXTINF:-1,DISNEY XD
+https://vip.we-play.tv/live/disneyxd/playlist.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+https://vip.we-play.tv/live/disneych/playlist.m3u8
+#EXTINF:-1,SPARKJUMP
+https://vip.we-play.tv/live/sparkjump/playlist.m3u8

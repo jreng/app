@@ -183,16 +183,6 @@ http://160.119.77.50/iptv/sd-skynetsports4.stream/playlist.m3u8
 http://160.119.77.50/iptv/sd-skynetsports5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="SPORTS",Skynet Sport 6
 http://160.119.77.50/iptv/sd-skynetsports6.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="SPORTS",SPORT TV 1
-http://94.63.89.230/stream/channelid/2126014102?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="SPORTS",SPORT TV 2
-http://94.63.89.230/stream/channelid/184599396?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="SPORTS",SPORT TV 3
-http://94.63.89.230/stream/channelid/771785749?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="SPORTS",SPORT TV 4
-http://94.63.89.230/stream/channelid/1846625925?profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="SPORTS",SPORT TV 5
-http://94.63.89.230/stream/channelid/1687929693?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="SPORTS",Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Flammarion-color.png/288px-Flammarion-color.png" group-title="SPORTS",TVRI SPORT
